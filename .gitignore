@@ -1,7 +1,7 @@
 .venv/
 *.py[cdo]
 *.env
-
+*.db
 .code/
 .idea/
 __pycache__/
